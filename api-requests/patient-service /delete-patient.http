@@ -1,0 +1,3 @@
+### Deleting a patient
+DELETE http://localhost:4004/api/patients/835afabb-ef62-4a8e-9e93-2a0fdeddb382
+###

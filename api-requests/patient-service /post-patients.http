@@ -1,0 +1,14 @@
+### Creates a new patient
+POST http://localhost:4004/api/patients
+Content-Type: Application/json
+
+{
+  "name" : "John Doe with for 55",
+  "email": "broooooo@example.com",
+  "address": "This is the eight street",
+  "birthDate": "2000-09-09",
+  "registrationDate": "2025-11-24"
+}
+
+
+###
