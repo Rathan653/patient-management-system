@@ -1,4 +1,4 @@
-# Project Name
+# Patient Management system
 The Patient Management System is a microservices-based healthcare application designed to streamline patient data management, appointment scheduling, and medical record access. Built with Spring Boot, it leverages gRPC for inter-service communication, Kafka for event-driven messaging, and JWT for secure authentication. The system is containerized using Docker and orchestrated via Docker Compose, making it easy to deploy and scale.
 
 ## 🚀 Prerequisites
